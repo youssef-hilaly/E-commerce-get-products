@@ -1,4 +1,4 @@
-##E-commerce Get Products API
+# E-commerce Get Products API
 
 This Node.js project provides a RESTful API with a single endpoint to retrieve product data.
 
